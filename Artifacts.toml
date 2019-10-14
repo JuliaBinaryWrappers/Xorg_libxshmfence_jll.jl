@@ -1,0 +1,89 @@
+[[Xorg_libxshmfence]]
+arch = "armv7l"
+git-tree-sha1 = "5a64a654fc0c82de6716de0d8d5a25ab2b9a261c"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "a530785e53ddac0c027870a3e62d6f1913347f9b1d25d2c3de8dd9d3affa1639"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.arm-linux-gnueabihf.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "aarch64"
+git-tree-sha1 = "a7b859191384a543b40b8e141bed01c57fd6c392"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "cd1f85e2ecaa1ab529bda56a4d080daf40a0183fb279d47a15f514a375ef5681"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.aarch64-linux-musl.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "i686"
+git-tree-sha1 = "a4ed2892d86509a13a64fd89904de00f9032861b"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "0c4724719678e079a1c5586c5b839f9c370f1e61ac544e1799c054b99f1fb7fd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.i686-linux-musl.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "i686"
+git-tree-sha1 = "6be4292331146c49392dc647167aae904283a7f5"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "2df3f6f337802f46aac749db0d4b9ccae203974bfca1eac094f290c7198c3dce"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.i686-linux-gnu.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "x86_64"
+git-tree-sha1 = "61ec33ad343c7d1e696036a7816682d541b26bf4"
+os = "freebsd"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "adeca8fd2ac2ba453660627e53aa98ef11632cc088eef9d242edaf8b91079a1d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "powerpc64le"
+git-tree-sha1 = "ef69ff927160a4ff76e0fe4438417a0c5e5e92b0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "33cb59e08b8fe3d1baa120cd741b400fed42d6bdea17de55225ead7e7144635a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "armv7l"
+git-tree-sha1 = "43ebaffbb9f7b239b6c35714944f1643ae7bf9ed"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "250e6110cba1e8f37bf3435415355fbf09cb53fa07c5c4afb5c2f280221e02f4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.arm-linux-musleabihf.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "aarch64"
+git-tree-sha1 = "5db30de0b7353272fd4ad47c74d6b0f702cd5da2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "64a73f1f6b5dd6fb5e426e0d0b5d5d1107e53ac8594ac0889de2b260267713a8"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "x86_64"
+git-tree-sha1 = "e79fb1f912fa60eb26de932e6684577336cb5b67"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "5d5d06dabfd7f2176d045b233fabdbd2a20c707581b2fa6fe2061474ccc032b0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_libxshmfence]]
+arch = "x86_64"
+git-tree-sha1 = "fde447dd639114c3dda2361ff84f8e239e0f930b"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libxshmfence.download]]
+    sha256 = "83c6fb49db0d0371a8b4866338d6ea99123f891c7fa01bca09c6138fb5cc8e9d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libxshmfence_jll.jl/releases/download/Xorg_libxshmfence-v1.3.0+0/Xorg_libxshmfence.v1.3.0.x86_64-linux-musl.tar.gz"
